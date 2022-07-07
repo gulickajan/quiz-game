@@ -1,0 +1,82 @@
+[
+  {
+    "level": "1",
+    "question": "Kto je sestra Anny vo filme Disney Frozen?",
+    "A": "Beta",
+    "B": "Anna",
+    "C": "Elsa",
+    "answer": "Elsa"
+  },
+  {
+    "level": "2",
+    "question": "Ktorá známa stavba sa nazvala podľa svojho staviteľa ?",
+    "A": "Eifelova Veža",
+    "B": "Bojnický Zámok",
+    "C": "Riverdale",
+    "answer": "Eifelova Veža"
+  },
+  {
+    "level": "3",
+    "question": "Na čo sa menia húsenice?",
+    "A": "Motýle",
+    "B": "Znova húsenice",
+    "C": "Hady",
+    "answer": "Motýle"
+  },
+  {
+    "level": "4",
+    "question": "Čo je najvyššie zviera na svete?",
+    "A": "Slon",
+    "B": "Lev",
+    "C": "Žirafa",
+    "answer": "Žirafa"
+  },
+  {
+    "level": "5",
+    "question": " Kúsok od Bratislavy sa nachádza najväčší barokový kaštieľ na Slovensku. Viete, v ktorej obci sa nachádza?",
+    "A": "Bernolákovo",
+    "B": "Veľký Bieľ",
+    "C": "Tomášikovo",
+    "answer": "Veľký Bieľ"
+  },
+  {
+    "level": "6",
+    "question": "Ak by ste chceli na Slovensku navštíviť najmenšie mesto počtom obyvateľov, kam by ste sa vybrali?",
+    "A": "Dudince",
+    "B": "Levice",
+    "C": "Šahy",
+    "answer": "Dudince"
+  },
+  {
+    "level": "7",
+    "question": "Kde sa dá pokochať najväčším krížom na Slovensku?",
+    "A": "V Leviciach na Kalvárií",
+    "B": "V Dóme svätého Martina v Bratislave",
+    "C": "Na kopci za Smrdákmi",
+    "answer": "Na kopci za Smrdákmi"
+  },
+  {
+    "level": "8",
+    "question": "V ktorom slovenskom meste sa natáčal oscarový film Obchod na korze?",
+    "A": "Sabinov",
+    "B": "Gelnica",
+    "C": "Košice",
+    "answer": "Sabinov"
+  },
+  {
+    "level": "9",
+    "question": "Ktorý z týchto citrusov nie je jedlý?",
+    "A": "Citrus Sun Gold",
+    "B": "Citrus Poncirus Trifoliata",
+    "C": "Citrus Blood Orange",
+    "answer": "Citrus Poncirus Trifoliata"
+  },
+  {
+    "level": "10",
+    "question": "Ako sa volá 6. diel Harryho Pottera?",
+    "A": "Fénixov Rád",
+    "B": "Ohnivá Čaša",
+    "C": "Polovičný Princ",
+    "answer": "Polovičný Princ"
+  }
+]

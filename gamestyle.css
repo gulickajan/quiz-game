@@ -1,0 +1,131 @@
+html,body{
+    background-image: url("vesmir.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    position: center;
+    color: #3dd5f3;
+}
+
+.otazky{
+    text-align: center;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    border-bottom: solid lightgreen 6px;
+    border-top: solid green 6px;
+    background-color: lightgreen;
+    width: 40%;
+}
+.otazky1{
+    text-align: center;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    border-bottom: solid lightgreen 6px;
+    border-top: solid green 6px;
+    background-color: lightgreen;
+    width: 40%;
+
+}
+.otazky:hover{
+    cursor: pointer;
+}
+
+.tento{
+    color: #25cff2;
+    position: relative;
+}
+
+.odpoved{
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    margin: 0 auto;
+    border: solid #3dd5f3;
+    background-color: lightblue;
+    width: 40%;
+    height: 8%;
+}
+
+.hide{
+    display: none;
+}
+
+.wrongAnswer{
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    color: red;
+}
+
+.button{
+    position: absolute;
+    top: 58%;
+    left: 48.5%;
+}
+
+.button-wrong{
+    position: absolute;
+    left: 65%;
+    top: 58%;
+}
+
+.button-help{
+    position: absolute;
+    left: 90%;
+    top: 85%;
+}
+
+.helpP{
+    position: absolute;
+    left: 50%;
+    bottom: 10%;
+    margin: 0 auto;
+    border: solid #3dd5f3;
+    background-color: lightblue;
+    width: 50%;
+    height: auto;
+}
+
+.button-help2{
+    position: absolute;
+    left: 50%;
+    bottom: 6%;
+}
+
+.button-help3{
+    position: absolute;
+    left: 57%;
+    bottom: 6%;
+}
+
+.button-start{
+    position: absolute;
+    left: 48.5%;
+    top: 45%;
+    block-size: 5%;
+}
+.button-show{
+    position: absolute;
+    left: 61%;
+    top: 58%;
+}
+
+.showAnswer{
+    position: absolute;
+    left: 61%;
+    top: 62%;
+    margin: 0 auto;
+    border: solid #3dd5f3;
+    background-color: lightblue;
+    width: 15%;
+    height: auto;
+
+}
+
+

@@ -1,0 +1,15 @@
+{
+    "name": "Quiz game",
+    "short_name": "Quiz",
+    "display": "standalone",
+    "start_url": ".",
+    "id": "/hra/",
+    "description": "Short quiz game",
+    "icons": [
+    {
+    "src": "faviconlepsi.png",
+    "sizes": "144x144",
+    "type": "image/png"
+    }]
+
+}

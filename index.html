@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="gamestyle.css">
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="shortcut icon" type="image/jpg" href="faviconlepsi.png"/>
+    <link rel="manifest" href="./manifest.webmanifest">
+</head>
+<body>
+<header>
+<h1>QUIZ Game</h1>
+
+</header>
+<main>
+    <div id="p1" class="otazky1"></div>
+<div id="secton">
+    <div id="p2" class="otazky" draggable="true" ondragstart="drag(event)"></div>
+    <div id="p3" class="otazky" draggable="true" ondragstart="drag(event)"></div>
+    <div id="p4" class="otazky" draggable="true" ondragstart="drag(event)"></div>
+
+</div>
+    <div id="p5" class="odpoved" ondrop="drop(event);answer(); aa()" ondragover="allowDrop(event)" ></div>
+    <button id="reloadBtn" class="btn-dark hide button-wrong">Try again!</button>
+    <button id="nextBtn" class="btn-dark hide button">Next</button>
+    <button id="showBtn" class="btn-dark hide button-show">Show</button>
+
+    <p id="showAnswer" class="showAnswer hide"></p>
+    <p id="wrongAnswer" class="wrongAnswer"></p>
+</main>
+<footer>
+    <button id="helpBtn" class="btn-outline-dark button-help">Help</button>
+    <p id="helpP" class="helpP hide">"Presunutím správnej odpovede do modrého políčka sa dostanete do ďalšieho levelu. Ak neviete odpoveď, môžete použiť tlačítko Odpoveď, ktoré sa zobrazí po vložení nesprávnej odpovede, ak ho použijete kliknite na Try again. Vložením zlej odpovede dostanete možnosť opraviť sa."</p>
+    <button id="cancelHelp" class="btn-outline-dark button-help2 hide">Cancel Help</button>
+    <button id="printBtn" class="button-help3 btn-outline-dark hide">Print</button>
+    <button id="startBtn" class="btn-primary button-start">START</button>
+    <script src="Sortable.js"></script>
+    <script src="gamejs.js"></script>
+
+</footer>
+</body>
+</html>
